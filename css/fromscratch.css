@@ -1,0 +1,18 @@
+.subtitle{
+    font-style: normal;
+    text-decoration: underline;
+    color: grey;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.section{
+    margin-bottom: 80px;
+    border-bottom: 2px solid darkgrey;
+}
+
+img{
+    border: 10px solid lightskyblue;
+}
